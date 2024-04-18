@@ -1,0 +1,114 @@
+body{
+        text-align: center;
+        background-image: url("images/bg.jpg");
+        background-repeat:no-repeat;
+        background-size: cover;
+        border: 2px solid darkmagenta;
+    }
+h1{
+        font: 30px bolder;
+        text-align: center;
+        color: darkmagenta;
+
+}
+.img-small-circle {
+        border-radius: 50%;  
+         border: 5px solid darkmagenta;  
+        object-fit: cover;
+         width: 150px;  
+         height: 150px;
+         position: relative;
+         top: -10px; 
+         margin: 0 auto; 
+}
+h2{
+        font-size: 25px;
+}
+a h2 {
+         text-align: center;
+         color: darkmagenta;
+         text-decoration: none;
+         border: 2px solid darkmagenta;
+        font-family: Arial;
+}
+a h2:hover{
+         border: 2px solid white;  
+         color: white;
+        text-decoration: none;
+        background-color: darkmagenta;
+        border-radius: 8px;
+}
+.intro h3{
+        text-align: left;
+        color: #ffffff;
+        background-color: darkmagenta;
+        font-family: Arial;
+ }
+.intro p{
+        text-align: center;
+    }
+.educ table{
+        
+        width: 100%;
+        border-collapse: collapse;
+        font-family: Arial;
+ }
+.educ table th, td{
+          border: 1px solid darkmagenta;
+          padding: 8px;
+ }
+.educ h4 , hr{
+        text-align: left;
+        color: darkmagenta
+      
+}
+.educ h4 {
+        font-family: Arial ;
+}
+.educ thead{
+        background-color:darkmagenta;
+        color: white;
+
+}
+.educ tbody {
+        color:black;
+     
+}
+.expertice h3{
+        color: #ffffff;
+        background-color: darkmagenta;
+        text-align: left;
+        font-family: arial;
+
+}
+.expertice ul{
+        color: black;
+        font-family: arial;
+        list-style-type: square;
+        text-align: left;
+}
+.info h4{
+        color: white;
+        font-family: arial;
+        background-color: darkmagenta;
+        text-align: left;
+}
+.info p{
+        text-align: center;
+}
+.apps ul{
+        color: white;
+        font-family: arial;
+        list-style-type: none;
+
+    }
+.apps h4{
+        color: #ffffff;
+        background-color: darkmagenta;
+        text-align: left;
+        font-family: Arial;
+}
+ .apps ol{
+        text-align: left;
+ }
+
